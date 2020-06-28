@@ -1,0 +1,67 @@
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.remove-button {
+  color: grey;
+}
+.remove-button:hover {
+  color: red;
+}
+.main {
+  margin-bottom: 2em;
+}
+.root {
+  display: flex;
+  flex-direction: row;
+  flex-grow: 1;
+  margin-bottom: 1em;
+  align-items: center;
+}
+.cardRoot {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+}
+.grid {
+  margin: 3em 1em;
+  flex-grow: 1;
+}
+.cardBody {
+  flex-grow: 1;
+  display: flex;
+  justify-content: space-around;
+}
+.details {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.coverDiv {
+  max-width: 250px;
+  width: 250px;
+  min-width: 250px;
+  display: flex;
+  align-items: center;
+}
+.cover {
+  width: 100%;
+}
+.controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.playIcon {
+  height: 38;
+  width: 38;
+}
+@media screen and (max-width: 600px) {
+  .root {
+    flex-direction: column !important;
+  }
+  .cardBody {
+    flex-direction: column !important;
+  }
+}

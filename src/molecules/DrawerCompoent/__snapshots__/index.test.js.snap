@@ -1,0 +1,501 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      aria-disabled="false"
+      class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-button"
+      data-testid="ListItem"
+      role="button"
+      style="color: black; background: rgb(150, 147, 151);"
+      tabindex="0"
+    >
+      <div
+        class="MuiListItemIcon-root"
+        style="color: Black;"
+      />
+      <div
+        class="MuiListItemText-root"
+        data-testid="test-input"
+        style="color: white;"
+      >
+        <span
+          class="MuiTypography-root MuiListItemText-primary MuiTypography-body1 MuiTypography-displayBlock"
+        >
+          Filter By Price
+        </span>
+      </div>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </div>
+    <div
+      class="makeStyles-root-53"
+    >
+      <div
+        class="makeStyles-margin-54"
+      />
+      <span
+        class="MuiSlider-root WithStyles(ForwardRef(Slider))-root-55 MuiSlider-colorPrimary MuiSlider-marked"
+      >
+        <span
+          class="MuiSlider-rail WithStyles(ForwardRef(Slider))-rail-60"
+        />
+        <span
+          class="MuiSlider-track WithStyles(ForwardRef(Slider))-track-59"
+          style="left: 0%; width: 100%;"
+        />
+        <input
+          type="hidden"
+          value="0,15000"
+        />
+        <span
+          class="MuiSlider-mark MuiSlider-markActive"
+          style="left: 0%;"
+        />
+        <span
+          aria-hidden="true"
+          class="MuiSlider-markLabel MuiSlider-markLabelActive"
+          style="left: 0%;"
+        >
+          0
+        </span>
+        <span
+          class="MuiSlider-mark MuiSlider-markActive"
+          style="left: 25%;"
+        />
+        <span
+          aria-hidden="true"
+          class="MuiSlider-markLabel MuiSlider-markLabelActive"
+          style="left: 25%;"
+        >
+          3750
+        </span>
+        <span
+          class="MuiSlider-mark MuiSlider-markActive"
+          style="left: 50%;"
+        />
+        <span
+          aria-hidden="true"
+          class="MuiSlider-markLabel MuiSlider-markLabelActive"
+          style="left: 50%;"
+        >
+          7500
+        </span>
+        <span
+          class="MuiSlider-mark MuiSlider-markActive"
+          style="left: 100%;"
+        />
+        <span
+          aria-hidden="true"
+          class="MuiSlider-markLabel MuiSlider-markLabelActive"
+          style="left: 100%;"
+        >
+          15000
+        </span>
+        <span
+          aria-labelledby="track-inverted-slider"
+          aria-orientation="horizontal"
+          aria-valuemax="15000"
+          aria-valuemin="0"
+          aria-valuenow="0"
+          aria-valuetext="0°C"
+          class="MuiSlider-thumb WithStyles(ForwardRef(Slider))-thumb-56 MuiSlider-thumbColorPrimary PrivateValueLabel-thumb-81"
+          data-index="0"
+          role="slider"
+          style="left: 0%;"
+          tabindex="0"
+        >
+          <span
+            class="PrivateValueLabel-offset-83 MuiSlider-valueLabel WithStyles(ForwardRef(Slider))-valueLabel-58"
+          >
+            <span
+              class="PrivateValueLabel-circle-84"
+            >
+              <span
+                class="PrivateValueLabel-label-85"
+              >
+                0
+              </span>
+            </span>
+          </span>
+        </span>
+        <span
+          aria-labelledby="track-inverted-slider"
+          aria-orientation="horizontal"
+          aria-valuemax="15000"
+          aria-valuemin="0"
+          aria-valuenow="15000"
+          aria-valuetext="15000°C"
+          class="MuiSlider-thumb WithStyles(ForwardRef(Slider))-thumb-56 MuiSlider-thumbColorPrimary PrivateValueLabel-thumb-81"
+          data-index="1"
+          role="slider"
+          style="left: 100%;"
+          tabindex="0"
+        >
+          <span
+            class="PrivateValueLabel-offset-83 MuiSlider-valueLabel WithStyles(ForwardRef(Slider))-valueLabel-58"
+          >
+            <span
+              class="PrivateValueLabel-circle-84"
+            >
+              <span
+                class="PrivateValueLabel-label-85"
+              >
+                15000
+              </span>
+            </span>
+          </span>
+        </span>
+      </span>
+      <div
+        class="makeStyles-margin-54"
+      />
+    </div>
+    <div
+      aria-disabled="false"
+      class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-button"
+      role="button"
+      style="color: black; background: rgb(150, 147, 151);"
+      tabindex="0"
+    >
+      <div
+        class="MuiListItemIcon-root"
+        style="color: Black;"
+      />
+      <div
+        class="MuiListItemText-root"
+        style="color: white;"
+      >
+        <span
+          class="MuiTypography-root MuiListItemText-primary MuiTypography-body1 MuiTypography-displayBlock"
+        >
+          Filter By Discount
+        </span>
+      </div>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </div>
+    <div
+      class="makeStyles-root-53"
+    >
+      <div
+        class="makeStyles-margin-54"
+      />
+      <span
+        class="MuiSlider-root WithStyles(ForwardRef(Slider))-root-55 MuiSlider-colorPrimary MuiSlider-marked"
+      >
+        <span
+          class="MuiSlider-rail WithStyles(ForwardRef(Slider))-rail-60"
+        />
+        <span
+          class="MuiSlider-track WithStyles(ForwardRef(Slider))-track-59"
+          style="left: 0%; width: 100%;"
+        />
+        <input
+          type="hidden"
+          value="1,80"
+        />
+        <span
+          class="MuiSlider-mark"
+          style="left: -1.2658227848101267%;"
+        />
+        <span
+          aria-hidden="true"
+          class="MuiSlider-markLabel"
+          style="left: -1.2658227848101267%;"
+        >
+          0
+        </span>
+        <span
+          class="MuiSlider-mark MuiSlider-markActive"
+          style="left: 24.050632911392405%;"
+        />
+        <span
+          aria-hidden="true"
+          class="MuiSlider-markLabel MuiSlider-markLabelActive"
+          style="left: 24.050632911392405%;"
+        >
+          20
+        </span>
+        <span
+          class="MuiSlider-mark MuiSlider-markActive"
+          style="left: 74.68354430379746%;"
+        />
+        <span
+          aria-hidden="true"
+          class="MuiSlider-markLabel MuiSlider-markLabelActive"
+          style="left: 74.68354430379746%;"
+        >
+          60
+        </span>
+        <span
+          class="MuiSlider-mark MuiSlider-markActive"
+          style="left: 100%;"
+        />
+        <span
+          aria-hidden="true"
+          class="MuiSlider-markLabel MuiSlider-markLabelActive"
+          style="left: 100%;"
+        >
+          80
+        </span>
+        <span
+          aria-labelledby="track-inverted-slider"
+          aria-orientation="horizontal"
+          aria-valuemax="80"
+          aria-valuemin="1"
+          aria-valuenow="1"
+          aria-valuetext="1°C"
+          class="MuiSlider-thumb WithStyles(ForwardRef(Slider))-thumb-56 MuiSlider-thumbColorPrimary PrivateValueLabel-thumb-81"
+          data-index="0"
+          role="slider"
+          style="left: 0%;"
+          tabindex="0"
+        >
+          <span
+            class="PrivateValueLabel-offset-83 MuiSlider-valueLabel WithStyles(ForwardRef(Slider))-valueLabel-58"
+          >
+            <span
+              class="PrivateValueLabel-circle-84"
+            >
+              <span
+                class="PrivateValueLabel-label-85"
+              >
+                1
+              </span>
+            </span>
+          </span>
+        </span>
+        <span
+          aria-labelledby="track-inverted-slider"
+          aria-orientation="horizontal"
+          aria-valuemax="80"
+          aria-valuemin="1"
+          aria-valuenow="80"
+          aria-valuetext="80°C"
+          class="MuiSlider-thumb WithStyles(ForwardRef(Slider))-thumb-56 MuiSlider-thumbColorPrimary PrivateValueLabel-thumb-81"
+          data-index="1"
+          role="slider"
+          style="left: 100%;"
+          tabindex="0"
+        >
+          <span
+            class="PrivateValueLabel-offset-83 MuiSlider-valueLabel WithStyles(ForwardRef(Slider))-valueLabel-58"
+          >
+            <span
+              class="PrivateValueLabel-circle-84"
+            >
+              <span
+                class="PrivateValueLabel-label-85"
+              >
+                80
+              </span>
+            </span>
+          </span>
+        </span>
+      </span>
+      <div
+        class="makeStyles-margin-54"
+      />
+    </div>
+    <div
+      aria-disabled="false"
+      class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-button"
+      role="button"
+      style="color: black; background: rgb(150, 147, 151);"
+      tabindex="0"
+    >
+      <div
+        class="MuiListItemIcon-root"
+        style="color: Black;"
+      />
+      <div
+        class="MuiListItemText-root"
+        style="color: white;"
+      >
+        <span
+          class="MuiTypography-root MuiListItemText-primary MuiTypography-body1 MuiTypography-displayBlock"
+        >
+          Filter By Rating
+        </span>
+      </div>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </div>
+    <div
+      class="makeStyles-root-53"
+    >
+      <div
+        class="makeStyles-margin-54"
+      />
+      <span
+        class="MuiSlider-root WithStyles(ForwardRef(Slider))-root-55 MuiSlider-colorPrimary MuiSlider-marked"
+      >
+        <span
+          class="MuiSlider-rail WithStyles(ForwardRef(Slider))-rail-60"
+        />
+        <span
+          class="MuiSlider-track WithStyles(ForwardRef(Slider))-track-59"
+          style="left: 0%; width: 100%;"
+        />
+        <input
+          type="hidden"
+          value="0,5"
+        />
+        <span
+          class="MuiSlider-mark MuiSlider-markActive"
+          style="left: 0%;"
+        />
+        <span
+          aria-hidden="true"
+          class="MuiSlider-markLabel MuiSlider-markLabelActive"
+          style="left: 0%;"
+        >
+          0
+        </span>
+        <span
+          class="MuiSlider-mark MuiSlider-markActive"
+          style="left: 20%;"
+        />
+        <span
+          aria-hidden="true"
+          class="MuiSlider-markLabel MuiSlider-markLabelActive"
+          style="left: 20%;"
+        >
+          1
+        </span>
+        <span
+          class="MuiSlider-mark MuiSlider-markActive"
+          style="left: 40%;"
+        />
+        <span
+          aria-hidden="true"
+          class="MuiSlider-markLabel MuiSlider-markLabelActive"
+          style="left: 40%;"
+        >
+          2
+        </span>
+        <span
+          class="MuiSlider-mark MuiSlider-markActive"
+          style="left: 60%;"
+        />
+        <span
+          aria-hidden="true"
+          class="MuiSlider-markLabel MuiSlider-markLabelActive"
+          style="left: 60%;"
+        >
+          3
+        </span>
+        <span
+          class="MuiSlider-mark MuiSlider-markActive"
+          style="left: 80%;"
+        />
+        <span
+          aria-hidden="true"
+          class="MuiSlider-markLabel MuiSlider-markLabelActive"
+          style="left: 80%;"
+        >
+          4
+        </span>
+        <span
+          class="MuiSlider-mark MuiSlider-markActive"
+          style="left: 100%;"
+        />
+        <span
+          aria-hidden="true"
+          class="MuiSlider-markLabel MuiSlider-markLabelActive"
+          style="left: 100%;"
+        >
+          5
+        </span>
+        <span
+          aria-labelledby="track-inverted-slider"
+          aria-orientation="horizontal"
+          aria-valuemax="5"
+          aria-valuemin="0"
+          aria-valuenow="0"
+          aria-valuetext="0°C"
+          class="MuiSlider-thumb WithStyles(ForwardRef(Slider))-thumb-56 MuiSlider-thumbColorPrimary PrivateValueLabel-thumb-81"
+          data-index="0"
+          role="slider"
+          style="left: 0%;"
+          tabindex="0"
+        >
+          <span
+            class="PrivateValueLabel-offset-83 MuiSlider-valueLabel WithStyles(ForwardRef(Slider))-valueLabel-58"
+          >
+            <span
+              class="PrivateValueLabel-circle-84"
+            >
+              <span
+                class="PrivateValueLabel-label-85"
+              >
+                0
+              </span>
+            </span>
+          </span>
+        </span>
+        <span
+          aria-labelledby="track-inverted-slider"
+          aria-orientation="horizontal"
+          aria-valuemax="5"
+          aria-valuemin="0"
+          aria-valuenow="5"
+          aria-valuetext="5°C"
+          class="MuiSlider-thumb WithStyles(ForwardRef(Slider))-thumb-56 MuiSlider-thumbColorPrimary PrivateValueLabel-thumb-81"
+          data-index="1"
+          role="slider"
+          style="left: 100%;"
+          tabindex="0"
+        >
+          <span
+            class="PrivateValueLabel-offset-83 MuiSlider-valueLabel WithStyles(ForwardRef(Slider))-valueLabel-58"
+          >
+            <span
+              class="PrivateValueLabel-circle-84"
+            >
+              <span
+                class="PrivateValueLabel-label-85"
+              >
+                5
+              </span>
+            </span>
+          </span>
+        </span>
+      </span>
+      <div
+        class="makeStyles-margin-54"
+      />
+    </div>
+    <div
+      aria-disabled="false"
+      class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-button"
+      role="button"
+      style="color: black; background: rgb(228, 0, 70);"
+      tabindex="0"
+    >
+      <div
+        class="MuiListItemIcon-root"
+        style="color: Black;"
+      />
+      <div
+        class="MuiListItemText-root"
+        style="color: white;"
+      >
+        <span
+          class="MuiTypography-root MuiListItemText-primary MuiTypography-body1 MuiTypography-displayBlock"
+        >
+          Remove Filters & Sorting 
+        </span>
+      </div>
+      <span
+        class="MuiTouchRipple-root"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,59 @@
+@mixin for-phone-only {
+  @media (min-width: 320px) {
+    @content;
+  }
+}
+@mixin for-tablet {
+  @media (max-width: 768px) {
+    @content;
+  }
+}
+
+.image {
+  border-radius: 50px;
+  height: 120px;
+  width: 120px;
+  margin-top: 30px;
+  @include for-phone-only {
+    border-radius: 60px;
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    margin-right: 20px;
+  }
+}
+// .dialog-box {
+//   width: 100%;
+//   @include for-phone-only {
+//     display: inline-grid;
+//     width: 50%;
+//     height: 100%;
+//     background-color: red;
+//     color: red;
+//     flex-wrap: wrap;
+//   }
+// }
+.card2 {
+  @include for-phone-only {
+    width: 700px;
+    margin-top: 30px;
+  }
+}
+.card6 {
+  @include for-phone-only {
+    width: 100%;
+  }
+}
+.card4 {
+  @include for-phone-only {
+    flex-basis: 50%;
+    max-width: 50%;
+
+    display: content;
+  }
+}
+.card5 {
+  flex-grow: 0;
+  max-width: 100%;
+  flex-basis: 100%;
+}

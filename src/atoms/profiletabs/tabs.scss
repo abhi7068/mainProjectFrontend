@@ -1,0 +1,36 @@
+.tabPanel {
+  align-content: center;
+  margin-left: 200px;
+}
+@mixin for-phone-only {
+  @media (max-width: 320px) {
+    @content;
+  }
+}
+.grid {
+  // display: flex;
+  // grid-template-rows: auto auto auto;
+  // grid-gap: 20px;
+  // padding: 10px;
+
+  @include for-phone-only {
+    grid-template-columns: auto auto auto;
+    grid-gap: 2px;
+    padding: 2px;
+    width: 100px;
+  }
+}
+.table {
+  height: 50px;
+}
+.tableRow {
+  width: fit-content;
+  margin-block-end: 45px;
+}
+span {
+  font-weight: 500;
+}
+.text-design {
+  color: black;
+  font-size: 3.5vh;
+}

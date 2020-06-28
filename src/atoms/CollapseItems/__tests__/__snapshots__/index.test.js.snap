@@ -1,0 +1,68 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders 1`] = `
+<DocumentFragment>
+  <div
+    class="makeStyles-root-1"
+  >
+    <div
+      class="makeStyles-margin-2"
+    />
+    <span
+      class="MuiSlider-root WithStyles(ForwardRef(Slider))-root-3 MuiSlider-colorPrimary MuiSlider-marked"
+    >
+      <span
+        class="MuiSlider-rail WithStyles(ForwardRef(Slider))-rail-8"
+      />
+      <span
+        class="MuiSlider-track WithStyles(ForwardRef(Slider))-track-7"
+        style="left: 0%;"
+      />
+      <input
+        type="hidden"
+        value="NaN"
+      />
+      <span
+        class="MuiSlider-mark"
+        style="left: 0%;"
+      />
+      <span
+        aria-hidden="true"
+        class="MuiSlider-markLabel"
+        style="left: 0%;"
+      >
+        0
+      </span>
+      <span
+        aria-labelledby="track-inverted-slider"
+        aria-orientation="horizontal"
+        aria-valuemax="15000"
+        aria-valuemin="0"
+        aria-valuenow="NaN"
+        aria-valuetext="NaN°C"
+        class="MuiSlider-thumb WithStyles(ForwardRef(Slider))-thumb-4 MuiSlider-thumbColorPrimary PrivateValueLabel-thumb-29"
+        data-index="0"
+        role="slider"
+        tabindex="0"
+      >
+        <span
+          class="PrivateValueLabel-offset-31 MuiSlider-valueLabel WithStyles(ForwardRef(Slider))-valueLabel-6"
+        >
+          <span
+            class="PrivateValueLabel-circle-32"
+          >
+            <span
+              class="PrivateValueLabel-label-33"
+            >
+              NaN
+            </span>
+          </span>
+        </span>
+      </span>
+    </span>
+    <div
+      class="makeStyles-margin-2"
+    />
+  </div>
+</DocumentFragment>
+`;

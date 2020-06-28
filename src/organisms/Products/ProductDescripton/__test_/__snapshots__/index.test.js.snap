@@ -1,0 +1,203 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div>
+      <div>
+        <div
+          class="MuiContainer-root makeStyles-content-5 MuiContainer-maxWidthLg"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-6 MuiGrid-grid-lg-6"
+            >
+              <button
+                class="MuiButtonBase-root makeStyles-image-3"
+                tabindex="0"
+                type="button"
+              >
+                <img
+                  alt="product"
+                  class="makeStyles-img-4"
+                  src="https://i.picsum.photos/id/180/2400/1600.jpg"
+                />
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-6 MuiGrid-grid-lg-6"
+            >
+              <div
+                class="MuiGrid-root MuiGrid-item MuiGrid-direction-xs-column MuiGrid-grid-xs-true"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true"
+                >
+                  <h3
+                    class="MuiTypography-root MuiTypography-h3 MuiTypography-colorPrimary"
+                    px="50rem"
+                  >
+                    <p
+                      class="name"
+                      data-testid="name"
+                    />
+                  </h3>
+                </div>
+                <div
+                  class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true"
+                >
+                  <p
+                    class="MuiTypography-root MuiTypography-body1 MuiTypography-colorSecondary"
+                  />
+                  <h6
+                    class="MuiTypography-root MuiTypography-h6"
+                  >
+                    Price: 
+                    <strong
+                      style="color: green;"
+                    >
+                       points
+                    </strong>
+                  </h6>
+                  <p />
+                </div>
+                <div
+                  class="MuiGrid-root"
+                >
+                  <h6
+                    class="MuiTypography-root MuiTypography-subtitle1 MuiTypography-colorTextSecondary"
+                  >
+                    <div
+                      class="MuiChip-root MuiChip-colorSecondary MuiChip-outlined MuiChip-outlinedSecondary MuiChip-sizeSmall"
+                    >
+                      <span
+                        class="MuiChip-label MuiChip-labelSmall"
+                      >
+                        No Category
+                      </span>
+                    </div>
+                  </h6>
+                </div>
+                <div
+                  class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true"
+                >
+                  <p
+                    class="MuiTypography-root MuiTypography-body1"
+                    componet="h6"
+                    px="30rem"
+                  >
+                    Description
+                  </p>
+                  <p
+                    class="MuiTypography-root MuiTypography-body1"
+                    componet="p"
+                    px="30rem"
+                  />
+                  <p
+                    data-testid="description"
+                  >
+                    This impressive paella is a perfect party dish and a fun meal tocook together with your guests. Add 1 cup of frozen peas along with the mussels, if you like.
+                  </p>
+                  <p />
+                </div>
+                <div
+                  class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true"
+                >
+                  <a
+                    href="/login"
+                  >
+                    <div
+                      class="star-rating"
+                    >
+                      <div
+                        class="star"
+                      />
+                      <div
+                        class="star"
+                      />
+                      <div
+                        class="star"
+                      />
+                      <div
+                        class="star"
+                      />
+                      <div
+                        class="star"
+                      />
+                      <p>
+                        0 of 5 stars
+                      </p>
+                    </div>
+                  </a>
+                </div>
+                <div
+                  class="MuiGrid-root MuiGrid-item"
+                >
+                  <p
+                    class="MuiTypography-root MuiTypography-body2"
+                    style="cursor: pointer;"
+                  >
+                    <button
+                      class="MuiButtonBase-root MuiIconButton-root"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <span
+                        class="MuiIconButton-label"
+                      />
+                    </button>
+                    <button
+                      class="MuiButtonBase-root MuiButton-root MuiButton-contained"
+                      style="background-color: lightblue;"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <span
+                        class="MuiButton-label"
+                      >
+                        ADD TO CART 
+                        <svg
+                          aria-hidden="true"
+                          class="MuiSvgIcon-root"
+                          focusable="false"
+                          role="presentation"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            d="M11 9h2V6h3V4h-3V1h-2v3H8v2h3v3zm-4 9c-1.1 0-1.99.9-1.99 2S5.9 22 7 22s2-.9 2-2-.9-2-2-2zm10 0c-1.1 0-1.99.9-1.99 2s.89 2 1.99 2 2-.9 2-2-.9-2-2-2zm-9.83-3.25l.03-.12.9-1.63h7.45c.75 0 1.41-.41 1.75-1.03l3.86-7.01L19.42 4h-.01l-1.1 2-2.76 5H8.53l-.13-.27L6.16 6l-.95-2-.94-2H1v2h2l3.6 7.59-1.35 2.45c-.16.28-.25.61-.25.96 0 1.1.9 2 2 2h12v-2H7.42c-.13 0-.25-.11-.25-.25z"
+                          />
+                        </svg>
+                      </span>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </button>
+                    <span
+                      class="MuiTouchRipple-root"
+                    />
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div
+              class="MuiGrid-root"
+            />
+          </div>
+          <div
+            class="MuiGrid-root"
+          >
+            <div
+              class="MuiGrid-root makeStyles-content-5"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

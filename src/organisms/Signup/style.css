@@ -1,0 +1,7 @@
+.change {
+  color: lightblue;
+  text-decoration: underline;
+}
+.change:hover {
+  color: red;
+}

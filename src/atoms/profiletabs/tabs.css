@@ -1,0 +1,37 @@
+.tabPanel {
+  -ms-flex-line-pack: center;
+      align-content: center;
+  margin-left: 200px;
+}
+
+@media (max-width: 320px) {
+  .grid {
+    -ms-grid-columns: auto auto auto;
+        grid-template-columns: auto auto auto;
+    grid-gap: 2px;
+    padding: 2px;
+    width: 100px;
+  }
+}
+
+.table {
+  height: 50px;
+}
+
+.tableRow {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  -webkit-margin-after: 45px;
+          margin-block-end: 45px;
+}
+
+span {
+  font-weight: 500;
+}
+
+.text-design {
+  color: black;
+  font-size: 3.5vh;
+}
+/*# sourceMappingURL=tabs.css.map */

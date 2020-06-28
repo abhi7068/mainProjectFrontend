@@ -1,0 +1,60 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`creatingsnapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="makeStyles-coloring-5"
+  >
+     
+    <nav
+      class="MuiToolbar-root MuiToolbar-dense makeStyles-toolbarSecondary-3 MuiToolbar-gutters"
+    >
+      <div>
+        <div
+          class="MuiFormControl-root makeStyles-formControl-11"
+        >
+          <label
+            class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated"
+            data-shrink="false"
+            id="demo-controlled-open-select-label"
+            style="color: black;"
+          >
+            Sort
+          </label>
+          <div
+            class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-formControl MuiInput-formControl"
+          >
+            <div
+              aria-haspopup="listbox"
+              aria-labelledby="demo-controlled-open-select-label demo-controlled-open-select"
+              class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input"
+              id="demo-controlled-open-select"
+              role="button"
+              tabindex="0"
+            >
+              <span>
+                ​
+              </span>
+            </div>
+            <input
+              type="hidden"
+              value=""
+            />
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSelect-icon"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M7 10l5 5 5-5z"
+              />
+            </svg>
+          </div>
+        </div>
+      </div>
+    </nav>
+  </div>
+</DocumentFragment>
+`;

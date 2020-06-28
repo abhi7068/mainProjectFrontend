@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot 1`] = `
+<DocumentFragment>
+  <div
+    aria-labelledby="vertical-tab-undefined"
+    class="MuiTypography-root MuiTypography-body1"
+    id="vertical-tabpanel-undefined"
+    role="tabpanel"
+  >
+    <div
+      class="MuiBox-root MuiBox-root-64"
+    >
+       
+    </div>
+  </div>
+</DocumentFragment>
+`;

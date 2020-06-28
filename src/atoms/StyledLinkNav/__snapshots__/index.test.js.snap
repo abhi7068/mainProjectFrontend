@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`creatingsnapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <a
+      class="sc-AxjAm eutjKG"
+      data-testid="StyledLink "
+      href="/Login"
+    >
+       Login
+    </a>
+  </div>
+</DocumentFragment>
+`;

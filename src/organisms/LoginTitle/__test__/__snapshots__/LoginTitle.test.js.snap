@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="makeStyles-leftTitle-34"
+  >
+    <h2
+      class="MuiTypography-root MuiTypography-h5"
+      data-testid="Typography"
+      style="font-size: 29px; font-weight: 500;"
+    >
+      Login
+    </h2>
+    <p
+      class="makeStyles-subtitle-66"
+    >
+      <span>
+        One step away to send gifts to your loved ones
+      </span>
+    </p>
+    <div
+      class="makeStyles-positionImage-35"
+    >
+      <img
+        alt="login"
+        src="yoyo-logo-mob.png"
+        width="200"
+      />
+    </div>
+  </div>
+</DocumentFragment>
+`;

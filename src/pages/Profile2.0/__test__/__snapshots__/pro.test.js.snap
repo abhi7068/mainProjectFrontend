@@ -1,0 +1,299 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`it render withour crashing 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiContainer-root MuiContainer-maxWidthLg"
+  >
+    <div />
+    <div
+      class="MuiGrid-root pro-disp-2 MuiGrid-container MuiGrid-spacing-xs-3"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-4 MuiGrid-grid-lg-4"
+      >
+        <img
+          alt="Cindy Baker"
+          class="image"
+        />
+        <button
+          class="edit-icon"
+          tabindex="0"
+          tooltip="Description here"
+          type="button"
+        >
+          <span
+            class="MuiIconButton-label"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34a.9959.9959 0 00-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"
+              />
+            </svg>
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-8 MuiGrid-grid-lg-8"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-direction-xs-column MuiGrid-grid-xs-true"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true"
+            style="text-align: left;"
+          >
+            <div
+              class="MuiPaper-root MuiCard-root pro-root-1 MuiPaper-elevation1 MuiPaper-rounded"
+            >
+              <div
+                class="MuiCardHeader-root card"
+                style="text-align: left;"
+              >
+                <div
+                  class="MuiCardHeader-avatar"
+                >
+                  <button
+                    class="MuiButtonBase-root MuiIconButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <span
+                      class="MuiIconButton-label"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root"
+                        focusable="false"
+                        role="presentation"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04c.39-.39.39-1.02 0-1.41l-2.34-2.34a.9959.9959 0 00-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z"
+                        />
+                      </svg>
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root"
+                    />
+                  </button>
+                </div>
+                <div
+                  class="MuiCardHeader-content"
+                />
+              </div>
+              <div
+                class="MuiCardContent-root"
+                style="text-align: left;"
+              >
+                <p
+                  class="MuiTypography-root MuiTypography-body2 MuiTypography-colorSecondary"
+                />
+                <ul
+                  class="MuiList-root MuiList-padding"
+                >
+                  <li
+                    class="MuiListItem-root MuiListItem-gutters"
+                  >
+                    <div
+                      class="MuiListItemIcon-root"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root"
+                        focusable="false"
+                        role="presentation"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M21 18v1c0 1.1-.9 2-2 2H5c-1.11 0-2-.9-2-2V5c0-1.1.89-2 2-2h14c1.1 0 2 .9 2 2v1h-9c-1.11 0-2 .9-2 2v8c0 1.1.89 2 2 2h9zm-9-2h10V8H12v8zm4-2.5c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5z"
+                        />
+                      </svg>
+                    </div>
+                    <div
+                      class="MuiListItemText-root"
+                      data-testid="show-data"
+                    >
+                      <span
+                        class="MuiTypography-root MuiListItemText-primary MuiTypography-body1 MuiTypography-displayBlock"
+                      >
+                        Yoyobalance 
+                      </span>
+                    </div>
+                  </li>
+                  <div
+                    aria-disabled="false"
+                    class="MuiButtonBase-root MuiListItem-root MuiListItem-gutters MuiListItem-button"
+                    role="button"
+                    tabindex="0"
+                  >
+                    <button
+                      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedSizeSmall MuiButton-sizeSmall"
+                      data-testid="dialogopen"
+                      style="background-color: skyBlue;"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <span
+                        class="MuiButton-label"
+                      >
+                        ADD MORE
+                      </span>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </button>
+                    <span
+                      class="MuiTouchRipple-root"
+                    />
+                  </div>
+                </ul>
+                <p />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiContainer-root makeStyles-root-271 MuiContainer-maxWidthLg"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-8 MuiGrid-grid-lg-8"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-direction-xs-column MuiGrid-grid-xs-true"
+          >
+            <div
+              class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true"
+            >
+              <div
+                aria-label="icon label tabs example"
+                class="MuiTabs-root"
+              >
+                <div
+                  class="MuiTabs-scroller MuiTabs-fixed"
+                  style="overflow: hidden;"
+                >
+                  <div
+                    class="MuiTabs-flexContainer"
+                    role="tablist"
+                  >
+                    <button
+                      aria-selected="true"
+                      class="MuiButtonBase-root MuiTab-root MuiTab-textColorSecondary Mui-selected MuiTab-labelIcon"
+                      role="tab"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <span
+                        class="MuiTab-wrapper"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          class="MuiSvgIcon-root"
+                          focusable="false"
+                          role="presentation"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            d="M17 3H7c-1.1 0-1.99.9-1.99 2L5 21l7-3 7 3V5c0-1.1-.9-2-2-2zm0 15l-5-2.18L7 18V5h10v13z"
+                          />
+                        </svg>
+                        SendHistory
+                      </span>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </button>
+                    <button
+                      aria-selected="false"
+                      class="MuiButtonBase-root MuiTab-root MuiTab-textColorSecondary MuiTab-labelIcon"
+                      role="tab"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <span
+                        class="MuiTab-wrapper"
+                      >
+                        <svg
+                          aria-hidden="true"
+                          class="MuiSvgIcon-root"
+                          focusable="false"
+                          role="presentation"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            d="M20 5.41L18.59 4 7 15.59V9H5v10h10v-2H8.41z"
+                          />
+                        </svg>
+                        RecievedHistory
+                      </span>
+                      <span
+                        class="MuiTouchRipple-root"
+                      />
+                    </button>
+                  </div>
+                  <span
+                    class="PrivateTabIndicator-root-296 PrivateTabIndicator-colorSecondary-298 MuiTabs-indicator"
+                    style="left: 0px; width: 0px;"
+                  />
+                </div>
+              </div>
+              <div
+                aria-labelledby="vertical-tab-0"
+                class="MuiTypography-root tabPanel MuiTypography-body1"
+                id="vertical-tabpanel-0"
+                role="tabpanel"
+              >
+                <div
+                  class="MuiBox-root MuiBox-root-301"
+                >
+                  <div
+                    class="makeStyles-root-271"
+                  >
+                    <div
+                      class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3 MuiGrid-item MuiGrid-grid-xs-true"
+                    >
+                      <div
+                        class="MuiGrid-root grid MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-lg-12"
+                      >
+                         
+                        <div>
+                          <p
+                            class="MuiTypography-root MuiTypography-body1"
+                          >
+                            You have not sent any gift card! Please send .
+                          </p>
+                          <hr />
+                          <p />
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                   
+                </div>
+              </div>
+              <div
+                aria-labelledby="vertical-tab-1"
+                class="MuiTypography-root tabPanel MuiTypography-body1"
+                hidden=""
+                id="vertical-tabpanel-1"
+                role="tabpanel"
+              />
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

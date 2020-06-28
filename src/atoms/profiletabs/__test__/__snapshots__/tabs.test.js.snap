@@ -1,0 +1,136 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`it render withour crashing 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiContainer-root makeStyles-root-1 MuiContainer-maxWidthLg"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-8 MuiGrid-grid-lg-8"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-direction-xs-column MuiGrid-grid-xs-true"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-true"
+        >
+          <div
+            aria-label="icon label tabs example"
+            class="MuiTabs-root"
+          >
+            <div
+              class="MuiTabs-scroller MuiTabs-fixed"
+              style="overflow: hidden;"
+            >
+              <div
+                class="MuiTabs-flexContainer"
+                role="tablist"
+              >
+                <button
+                  aria-selected="true"
+                  class="MuiButtonBase-root MuiTab-root MuiTab-textColorSecondary Mui-selected MuiTab-labelIcon"
+                  role="tab"
+                  tabindex="0"
+                  type="button"
+                >
+                  <span
+                    class="MuiTab-wrapper"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root"
+                      focusable="false"
+                      role="presentation"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M17 3H7c-1.1 0-1.99.9-1.99 2L5 21l7-3 7 3V5c0-1.1-.9-2-2-2zm0 15l-5-2.18L7 18V5h10v13z"
+                      />
+                    </svg>
+                    SendHistory
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </button>
+                <button
+                  aria-selected="false"
+                  class="MuiButtonBase-root MuiTab-root MuiTab-textColorSecondary MuiTab-labelIcon"
+                  role="tab"
+                  tabindex="0"
+                  type="button"
+                >
+                  <span
+                    class="MuiTab-wrapper"
+                  >
+                    <svg
+                      aria-hidden="true"
+                      class="MuiSvgIcon-root"
+                      focusable="false"
+                      role="presentation"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        d="M20 5.41L18.59 4 7 15.59V9H5v10h10v-2H8.41z"
+                      />
+                    </svg>
+                    RecievedHistory
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root"
+                  />
+                </button>
+              </div>
+              <span
+                class="PrivateTabIndicator-root-149 PrivateTabIndicator-colorSecondary-151 MuiTabs-indicator"
+                style="left: 0px; width: 0px;"
+              />
+            </div>
+          </div>
+          <div
+            aria-labelledby="vertical-tab-0"
+            class="MuiTypography-root tabPanel MuiTypography-body1"
+            id="vertical-tabpanel-0"
+            role="tabpanel"
+          >
+            <div
+              class="MuiBox-root MuiBox-root-184"
+            >
+              <div
+                class="makeStyles-root-1"
+              >
+                <div
+                  class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3 MuiGrid-item MuiGrid-grid-xs-true"
+                >
+                  <div
+                    class="MuiGrid-root grid MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-lg-12"
+                  >
+                     
+                    <div>
+                      <p
+                        class="MuiTypography-root MuiTypography-body1"
+                      >
+                        You have not sent any gift card! Please send .
+                      </p>
+                      <hr />
+                      <p />
+                    </div>
+                  </div>
+                </div>
+              </div>
+               
+            </div>
+          </div>
+          <div
+            aria-labelledby="vertical-tab-1"
+            class="MuiTypography-root tabPanel MuiTypography-body1"
+            hidden=""
+            id="vertical-tabpanel-1"
+            role="tabpanel"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

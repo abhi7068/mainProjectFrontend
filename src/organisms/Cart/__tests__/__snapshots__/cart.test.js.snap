@@ -1,0 +1,257 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="grid"
+    data-testid="cart-container"
+  >
+    <div
+      class="MuiPaper-root MuiCard-root main MuiPaper-elevation1 MuiPaper-rounded"
+    >
+      <h2
+        class="MuiTypography-root MuiTypography-h4"
+        style="text-align: left; padding: 1em 1em 0em 1em;"
+      >
+        Your Cart
+      </h2>
+      <div
+        class="MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-3"
+        style="width: 100%; margin: 0px;"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-8"
+        >
+          <div
+            class="MuiPaper-root MuiCard-root root MuiPaper-outlined MuiPaper-rounded"
+          >
+            <div
+              class="coverDiv"
+            >
+              <img
+                alt="Product Title"
+                class="cover"
+                data-testid="product-img"
+                src="https://images.freeimages.com/images/small-previews/f9d/cup-and-saucer-1639822.jpg"
+              />
+            </div>
+            <div
+              class="cardBody"
+            >
+              <div
+                class="details"
+              >
+                <div
+                  class="MuiCardContent-root"
+                >
+                  <h5
+                    class="MuiTypography-root MuiTypography-h5"
+                    data-testid="product-heading"
+                  >
+                    <a
+                      href="/no-category/watch"
+                    >
+                      watch
+                    </a>
+                  </h5>
+                  <h6
+                    class="MuiTypography-root MuiTypography-subtitle1 MuiTypography-colorTextSecondary"
+                  >
+                    <div
+                      class="MuiChip-root MuiChip-colorSecondary MuiChip-outlined MuiChip-outlinedSecondary MuiChip-sizeSmall"
+                      data-testid="category-name"
+                    >
+                      <span
+                        class="MuiChip-label MuiChip-labelSmall"
+                      >
+                        No Category
+                      </span>
+                    </div>
+                  </h6>
+                </div>
+                <div
+                  class="controls"
+                  data-testid="counter"
+                >
+                  <button
+                    class="MuiButtonBase-root MuiIconButton-root Mui-disabled Mui-disabled"
+                    data-testid="decrease"
+                    disabled=""
+                    tabindex="-1"
+                    type="button"
+                  >
+                    <span
+                      class="MuiIconButton-label"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root"
+                        focusable="false"
+                        role="presentation"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M19 13H5v-2h14v2z"
+                        />
+                      </svg>
+                    </span>
+                  </button>
+                  1
+                  <button
+                    class="MuiButtonBase-root MuiIconButton-root"
+                    data-testid="increase"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <span
+                      class="MuiIconButton-label"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root"
+                        focusable="false"
+                        role="presentation"
+                        viewBox="0 0 24 24"
+                      >
+                        <path
+                          d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"
+                        />
+                      </svg>
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root"
+                    />
+                  </button>
+                </div>
+              </div>
+              <div
+                style="display: flex; flex-direction: column; justify-content: center;"
+              >
+                <div>
+                  <h6
+                    class="MuiTypography-root MuiTypography-h6"
+                  >
+                    Price: 
+                    <strong
+                      style="color: green;"
+                    >
+                      100 points
+                    </strong>
+                  </h6>
+                </div>
+              </div>
+            </div>
+            <div
+              style="display: flex; flex-direction: column; justify-content: center;"
+            >
+              <button
+                class="MuiButtonBase-root MuiIconButton-root remove-button"
+                data-testid="remove-button"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiIconButton-label"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="MuiSvgIcon-root"
+                    focusable="false"
+                    role="presentation"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.53 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm3.59-13L12 10.59 8.41 7 7 8.41 10.59 12 7 15.59 8.41 17 12 13.41 15.59 17 17 15.59 13.41 12 17 8.41z"
+                    />
+                  </svg>
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+          </div>
+          <div
+            class="MuiPaper-root MuiCard-root MuiPaper-outlined MuiPaper-rounded"
+          >
+            <h2
+              class="MuiTypography-root MuiTypography-h5"
+              data-testid="subtotal2"
+              style="text-align: right; padding-right: 1em;"
+            >
+               Subtotal (1 items) : 
+              <span
+                style="color: green;"
+              >
+                100 points
+              </span>
+            </h2>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-sm-12 MuiGrid-grid-md-4"
+        >
+          <div
+            class="MuiPaper-root MuiCard-root cardRoot MuiPaper-outlined MuiPaper-rounded"
+          >
+            <div
+              class="MuiCardContent-root"
+            >
+              <h2
+                class="MuiTypography-root title MuiTypography-h5"
+                data-testid="subtotal1"
+              >
+                Subtotal (1 items) : 
+                <span
+                  style="color: green;"
+                >
+                  100 points
+                </span>
+              </h2>
+              <p
+                class="MuiTypography-root MuiTypography-body1"
+              >
+                This order contains a gift
+              </p>
+            </div>
+            <div
+              class="MuiCardActions-root MuiCardActions-spacing"
+              style="justify-content: center;"
+            >
+              <button
+                class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-containedSizeSmall MuiButton-sizeSmall"
+                tabindex="0"
+                type="button"
+              >
+                <span
+                  class="MuiButton-label"
+                >
+                  Proceed To Gift
+                </span>
+                <span
+                  class="MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`should take a snapshot 2`] = `
+<DocumentFragment>
+  <div
+    class="grid"
+    data-testid="cart-container"
+  >
+    <h6
+      class="MuiTypography-root MuiTypography-h5"
+    >
+      Please Add Something To Cart
+    </h6>
+  </div>
+</DocumentFragment>
+`;

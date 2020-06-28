@@ -1,0 +1,236 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiGrid-root makeStyles-gridTitle-256 MuiGrid-item MuiGrid-grid-xs-5"
+  >
+    <div
+      class="makeStyles-leftTitle-361"
+    >
+      <h2
+        class="MuiTypography-root MuiTypography-h5"
+        data-testid="Typography"
+        style="font-size: 29px; font-weight: 500;"
+      >
+        Signup
+      </h2>
+      <p
+        class="makeStyles-subtitle-393"
+      >
+        <span>
+          We do not share your personal details with anyone.
+        </span>
+      </p>
+      <div
+        class="makeStyles-positionImage-362"
+      >
+        <img
+          alt="login"
+          src="yoyo-logo-mob.png"
+          width="200"
+        />
+      </div>
+    </div>
+  </div>
+  <div
+    class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-7"
+  >
+    <div
+      class="makeStyles-formContent-254"
+    >
+      <form
+        action="#"
+        novalidate=""
+      >
+        <div
+          class="MuiFormControl-root MuiTextField-root MuiFormControl-fullWidth"
+        >
+          <label
+            class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated Mui-required Mui-required"
+            data-shrink="false"
+          >
+            Name
+            <span
+              class="MuiFormLabel-asterisk MuiInputLabel-asterisk"
+            >
+               *
+            </span>
+          </label>
+          <div
+            class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-fullWidth MuiInput-fullWidth MuiInputBase-formControl MuiInput-formControl"
+          >
+            <input
+              aria-invalid="false"
+              autocomplete="off"
+              class="MuiInputBase-input MuiInput-input"
+              name="name"
+              required=""
+              type="text"
+              value=""
+            />
+          </div>
+          <p
+            class="MuiFormHelperText-root Mui-required"
+          />
+        </div>
+        <div
+          class="MuiFormControl-root MuiTextField-root MuiFormControl-fullWidth"
+        >
+          <label
+            class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated Mui-required Mui-required"
+            data-shrink="false"
+          >
+            Email
+            <span
+              class="MuiFormLabel-asterisk MuiInputLabel-asterisk"
+            >
+               *
+            </span>
+          </label>
+          <div
+            class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-fullWidth MuiInput-fullWidth MuiInputBase-formControl MuiInput-formControl"
+          >
+            <input
+              aria-invalid="false"
+              autocomplete="off"
+              class="MuiInputBase-input MuiInput-input"
+              name="email"
+              required=""
+              type="text"
+              value=""
+            />
+          </div>
+          <p
+            class="MuiFormHelperText-root Mui-required"
+          />
+        </div>
+        <div
+          class="MuiFormControl-root MuiTextField-root MuiFormControl-fullWidth"
+        >
+          <label
+            class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated Mui-required Mui-required"
+            data-shrink="false"
+          >
+            Confirm email
+            <span
+              class="MuiFormLabel-asterisk MuiInputLabel-asterisk"
+            >
+               *
+            </span>
+          </label>
+          <div
+            class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-fullWidth MuiInput-fullWidth MuiInputBase-formControl MuiInput-formControl"
+          >
+            <input
+              aria-invalid="false"
+              autocomplete="off"
+              class="MuiInputBase-input MuiInput-input"
+              name="confirmEmail"
+              required=""
+              type="text"
+              value=""
+            />
+          </div>
+          <p
+            class="MuiFormHelperText-root Mui-required"
+          />
+        </div>
+        <div
+          class="MuiFormControl-root MuiTextField-root MuiFormControl-fullWidth"
+        >
+          <label
+            class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated Mui-required Mui-required"
+            data-shrink="false"
+          >
+            Password
+            <span
+              class="MuiFormLabel-asterisk MuiInputLabel-asterisk"
+            >
+               *
+            </span>
+          </label>
+          <div
+            class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-fullWidth MuiInput-fullWidth MuiInputBase-formControl MuiInput-formControl"
+          >
+            <input
+              aria-invalid="false"
+              autocomplete="off"
+              class="MuiInputBase-input MuiInput-input"
+              name="password"
+              required=""
+              type="password"
+              value=""
+            />
+          </div>
+          <p
+            class="MuiFormHelperText-root Mui-required"
+          />
+        </div>
+        <div
+          class="MuiFormControl-root MuiTextField-root MuiFormControl-fullWidth"
+        >
+          <label
+            class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated Mui-required Mui-required"
+            data-shrink="false"
+          >
+            Confirm Password
+            <span
+              class="MuiFormLabel-asterisk MuiInputLabel-asterisk"
+            >
+               *
+            </span>
+          </label>
+          <div
+            class="MuiInputBase-root MuiInput-root MuiInput-underline MuiInputBase-fullWidth MuiInput-fullWidth MuiInputBase-formControl MuiInput-formControl"
+          >
+            <input
+              aria-invalid="false"
+              autocomplete="off"
+              class="MuiInputBase-input MuiInput-input"
+              name="confirmPassword"
+              required=""
+              type="password"
+              value=""
+            />
+          </div>
+          <p
+            class="MuiFormHelperText-root Mui-required"
+          />
+        </div>
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-contained makeStyles-contained-460 makeStyles-buttonOrange-459 MuiButton-fullWidth"
+          data-testid="ButtonOrange"
+          style="margin: 36px 0px 16px 0px;"
+          tabindex="0"
+          type="submit"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            Signup
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-text makeStyles-buttonWhite-493 MuiButton-fullWidth"
+          style="text-transform: none;"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiButton-label"
+          >
+            Existing User? Signin
+          </span>
+          <span
+            class="MuiTouchRipple-root"
+          />
+        </button>
+      </form>
+    </div>
+  </div>
+</DocumentFragment>
+`;

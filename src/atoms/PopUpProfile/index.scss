@@ -1,0 +1,52 @@
+// @mixin for-phone-only {
+//   @media (max-width: 321px) and (max-width: 425px) {
+//     @content;
+//   }
+// }
+
+// /* iPads (landscape) ----------- */
+// @mixin for-ipad {
+//   @media only screen and (min-device-width: 768px) {
+//     @content;
+//   }
+// }
+
+// /* Desktops and laptops ----------- */
+// @mixin for-desktop-and-laptop {
+//   @media only screen and (min-width: 1224px) {
+//     @content;
+//   }
+// }
+
+// /* Large screens ----------- */
+// @mixin for-large-screen {
+//   @media only screen and (min-width: 1824px) {
+//     @content;
+//   }
+// }
+
+// /* iPhone 5 (landscape)----------- */
+// @mixin for-iPhone {
+//   @media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (orientation: landscape) {
+//     @content;
+//   }
+// }
+// .dialogCard {
+//   @include for-phone-only {
+//     flex-grow: 2;
+//     flex-basis: 10%;
+
+//     display: flex;
+//     @include for-ipad {
+//       flex-grow: 2;
+//       flex-basis: 10%;
+//       display: flex;
+//     }
+//   }
+// }
+// @media (-webkit-min-device-pixel-ratio: 1.5),
+//   (min--moz-device-pixel-ratio: 1.5),
+//   (-o-min-device-pixel-ratio: 3 / 2),
+//   (min-device-pixel-ratio: 1.5),
+//   (min-resolution: 120dpi) and (max-width: 480px) {
+//   }

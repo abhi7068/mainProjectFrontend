@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`creatingsnapshot 1`] = `
+<DocumentFragment>
+  <div>
+    <div
+      class="makeStyles-coloring-5"
+    >
+      <nav
+        class="MuiToolbar-root MuiToolbar-dense makeStyles-toolbarSecondary-3 MuiToolbar-gutters"
+      >
+        <div>
+          <a
+            class="sc-AxjAm SNhZu"
+            data-testid="StyledLink "
+            href="/mail"
+          >
+             support@yoyogift.com
+          </a>
+        </div>
+        <div>
+          <a
+            class="sc-AxjAm SNhZu"
+            data-testid="StyledLink "
+            href="/aboutus"
+          >
+             About Us
+          </a>
+        </div>
+        <div>
+          <a
+            class="sc-AxjAm SNhZu"
+            data-testid="StyledLink "
+            href="/contactus"
+          >
+             Contact Us
+          </a>
+        </div>
+      </nav>
+    </div>
+  </div>
+</DocumentFragment>
+`;

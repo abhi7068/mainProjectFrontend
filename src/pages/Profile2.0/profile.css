@@ -1,0 +1,48 @@
+.image {
+  border-radius: 50px;
+  height: 120px;
+  width: 120px;
+  margin-top: 30px;
+}
+
+@media (min-width: 320px) {
+  .image {
+    border-radius: 60px;
+    height: 150px;
+    width: 150px;
+    margin-top: 10px;
+    margin-right: 20px;
+  }
+}
+
+@media (min-width: 320px) {
+  .card2 {
+    width: 700px;
+    margin-top: 30px;
+  }
+}
+
+@media (min-width: 320px) {
+  .card6 {
+    width: 100%;
+  }
+}
+
+@media (min-width: 320px) {
+  .card4 {
+    -ms-flex-preferred-size: 50%;
+        flex-basis: 50%;
+    max-width: 50%;
+    display: content;
+  }
+}
+
+.card5 {
+  -webkit-box-flex: 0;
+      -ms-flex-positive: 0;
+          flex-grow: 0;
+  max-width: 100%;
+  -ms-flex-preferred-size: 100%;
+      flex-basis: 100%;
+}
+/*# sourceMappingURL=profile.css.map */
