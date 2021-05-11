@@ -15,7 +15,7 @@
     "clsx": "^1.1.0",
     "firebase": "^7.14.0",
     "formik": "^2.1.4",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "material-ui-image": "^3.2.3",
     "prop-types": "^15.7.2",
     "react": "^16.13.0",
